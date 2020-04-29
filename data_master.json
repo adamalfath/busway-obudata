@@ -1,0 +1,1957 @@
+[
+	{
+		"corridor": [
+			{
+				"id": "1",
+				"name": "Blok M - Kota",
+				"route": [
+					{
+						"id": "01",
+						"name": "Blok M - Kota",
+						"dhalte": [
+							"1-1",
+							"1-2",
+							"1-3",
+							"1-4",
+							"1-5",
+							"1-6",
+							"1-7",
+							"1-9",
+							"1-10",
+							"1-11",
+							"1-12",
+							"1-13",
+							"1-14",
+							"1-15",
+							"1-16",
+							"1-17",
+							"1-18",
+							"1-19",
+							"1-20"
+						],
+						"ahalte": [
+							"1-20",
+							"1-19",
+							"1-18",
+							"1-17",
+							"1-16",
+							"1-15",
+							"1-14",
+							"1-13",
+							"1-12",
+							"1-11",
+							"1-10",
+							"1-9",
+							"1-7",
+							"1-6",
+							"1-5",
+							"1-4",
+							"1-3",
+							"1-2",
+							"1-1"
+						]
+					},
+					{
+						"id": "1A",
+						"name": "PIK - Balai Kota"
+					},
+					{
+						"id": "1B",
+						"name": "St. Pal Merah - Tosari"
+					},
+					{
+						"id": "1C",
+						"name": "Blok M - Pesanggrahan"
+					},
+					{
+						"id": "1E",
+						"name": "Pondok Labu - Blok M"
+					},
+					{
+						"id": "1F",
+						"name": "St. Palmerah - Bundaran Senayan"
+					},
+					{
+						"id": "1H",
+						"name": "St. Tanah Abang - St. Gondangdia"
+					},
+					{
+						"id": "1M",
+						"name": "Meruya - Blok M"
+					},
+					{
+						"id": "1N",
+						"name": "Tanah Abang - Blok M"
+					},
+					{
+						"id": "1P",
+						"name": "Senen - Bundaran Senayan"
+					},
+					{
+						"id": "1R",
+						"name": "St. Pasar Senen - St. Tanah Abang"
+					}
+				]
+			},
+			{
+				"id": "2",
+				"name": "Harmoni - Pulogadung",
+				"route": [
+					{
+						"id": "02",
+						"name": "Pulogadung - Harmoni Central"
+					},
+					{
+						"id": "2A",
+						"name": "Pulogadung - Rawa Buaya"
+					},
+					{
+						"id": "2B",
+						"name": "Harapan Indah - ASMI"
+					},
+					{
+						"id": "2D",
+						"name": "Kalideres - ASMI"
+					},
+					{
+						"id": "2E",
+						"name": "Rusun Rawa Bebek - Pakin"
+					},
+					{
+						"id": "2K",
+						"name": "JGC - Harapan Indah"
+					}
+				]
+			},
+			{
+				"id": "3",
+				"name": "Kalideres - Pasar Baru",
+				"route": [
+					{
+						"id": "03",
+						"name": "Kalideres - Pasar Baru"
+					},
+					{
+						"id": "3A",
+						"name": "Rusun Daan Mogot - Kalideres"
+					},
+					{
+						"id": "3B",
+						"name": "Rusun Flamboyan - Kalideres"
+					},
+					{
+						"id": "3C",
+						"name": "Rusun Kapuk Muara - Kalideres"
+					},
+					{
+						"id": "3D",
+						"name": "Penjaringan - Rawa Buaya"
+					},
+					{
+						"id": "3E",
+						"name": "Sentraland Cengkareng - Puri Kembangan"
+					},
+					{
+						"id": "3F",
+						"name": "Kalideres - Gelora Bung Karno"
+					}
+				]
+			},
+			{
+				"id": "4",
+				"name": "Pulogadung - Dukuh Atas",
+				"route": [
+					{
+						"id": "04",
+						"name": "Pulogadung 2 - Duku Atas 2"
+					},
+					{
+						"id": "4A",
+						"name": "TU Gas - Grogol 2"
+					},
+					{
+						"id": "4B",
+						"name": "St. Manggarai - UI",
+						"dhalte": [
+							"NI-StManggarai",
+							"4-14",
+							"R32-Saharjo",
+							"R33-Albarkah",
+							"R34-Keselamatan",
+							"R35-Supomo",
+							"R36-Tebet",
+							"R37-Trans",
+							"R38-Kecamatan",
+							"R39-Pasar",
+							"R40-Sahid",
+							"R41-Rosita",
+							"R42-Pemadam",
+							"B60-Pancoran2",
+							"B61-Fountain",
+							"R43-Pancoran",
+							"R44-Perdatam",
+							"R45-Pertani",
+							"R46-SMK",
+							"R47-POMAD",
+							"R48-Nifarro",
+							"B62-Brimob",
+							"R49-Warga",
+							"R50-AtTaqwa",
+							"R51-StPasar",
+							"R52-Poltangan",
+							"R53-Tanjung",
+							"R54-StTanjung",
+							"R55-Perum",
+							"R57-Poltek",
+							"R58-SPBU",
+							"R59-Lenteng",
+							"R60-Taman",
+							"B3-StLenteng",
+							"R61-Wijaya",
+							"R62-SMA38",
+							"R63-SMA109",
+							"R64-Syibi",
+							"R1-UI"
+						],
+						"ahalte": [
+							"R1-UI",
+							"R2-UP",
+							"R3-StUP",
+							"R4-SMA38",
+							"B64-StLenteng",
+							"NI-Jagakarsa",
+							"R6-IISIP",
+							"B65-Joe",
+							"B66-Arrohmah",
+							"R7-Lenteng",
+							"R8-StTanjung",
+							"NI-FlyoverTanjung",
+							"R9-Komplek",
+							"NI-RawaBambu",
+							"R10-LP3I",
+							"B1-StPasar",
+							"B2-AtTaqwa",
+							"R11-Siaga",
+							"R12-Brimob",
+							"R13-PMD",
+							"R14-Samali",
+							"R15-Empang",
+							"R16-POMAD",
+							"R17-Guru",
+							"B71-Sucofindo",
+							"R77-Tria",
+							"R19-MBAU",
+							"R20-Pancoran",
+							"R21-Tebet",
+							"R22-Sahid",
+							"R23-Merpati",
+							"R24-Kecamatan",
+							"R25-Balai",
+							"R26-Pal",
+							"R27-Jembatan",
+							"R28-SDN",
+							"R29-Budhi",
+							"R30-Baiturrahman",
+							"B72-Minangkabau",
+							"4-14",
+							"NI-StManggarai"
+						]
+					},
+					{
+						"id": "4C",
+						"name": "Bundaran Senayan - TU Gas"
+					},
+					{
+						"id": "4D",
+						"name": "TU Gas - Departemen Kesehatan"
+					},
+					{
+						"id": "4F",
+						"name": "Pondok Gede - Pulo Gadung"
+					},
+					{
+						"id": "4H",
+						"name": "Pulogadung 2 - Ragunan"
+					},
+					{
+						"id": "4K",
+						"name": "Pulogadung 2 - Blok M"
+					},
+					{
+						"id": "4M",
+						"name": "Pulogadung - Kota"
+					}
+				]
+			},
+			{
+				"id": "5",
+				"name": "Ancol - Kampung Melayu",
+				"route": [
+					{
+						"id": "05",
+						"name": "Kp. Melayu - Ancol"
+					},
+					{
+						"id": "5A",
+						"name": "Kp. Melayu - Grogol 1"
+					},
+					{
+						"id": "5B",
+						"name": "St. Tebet - Bidara Cina"
+					},
+					{
+						"id": "5C",
+						"name": "PGC 1 - Harmoni Central"
+					},
+					{
+						"id": "5D",
+						"name": "PGC 1 - Ancol"
+					},
+					{
+						"id": "5E",
+						"name": "Kp. Rambutan - Ancol"
+					},
+					{
+						"id": "5F",
+						"name": "Kp. Melayu - Tanah Abang"
+					},
+					{
+						"id": "5H",
+						"name": "Harmoni - Ancol"
+					},
+					{
+						"id": "5K",
+						"name": "Kp. Melayu - Kota"
+					},
+					{
+						"id": "5M",
+						"name": "Kp. Melayu - Tanah Abang via Cikini"
+					},
+					{
+						"id": "5N",
+						"name": "Kp. Melayu - Ragunan"
+					}
+				]
+			},
+			{
+				"id": "6",
+				"name": "Ragunan - Dukuh Atas 10",
+				"route": [
+					{
+						"id": "06",
+						"name": "Ragunan - Duku Atas 2"
+					},
+					{
+						"id": "6A",
+						"name": "Ragunan - Monas Via Kuningan"
+					},
+					{
+						"id": "6B",
+						"name": "Ragunan - Monas Via Semanggi"
+					},
+					{
+						"id": "6C",
+						"name": "St. Tebet - Karet Via Patra Kuningan"
+					},
+					{
+						"id": "6D",
+						"name": "St. Tebet - Karet Via Underpass"
+					},
+					{
+						"id": "6E",
+						"name": "St. Tebet - Karet Via Mega Kuningan"
+					},
+					{
+						"id": "6F",
+						"name": "Ragunan - St. Manggarai"
+					},
+					{
+						"id": "6H",
+						"name": "Pasar Senen - Lebak Bulus"
+					},
+					{
+						"id": "6M",
+						"name": "Blok M - St. Manggarai"
+					},
+					{
+						"id": "6N",
+						"name": "Blok M - Ragunan"
+					},
+					{
+						"id": "6Q",
+						"name": "Epicentrum - Casablanca"
+					},
+					{
+						"id": "6R",
+						"name": "Ragunan - St. MRT Fatmawati"
+					}
+				]
+			},
+			{
+				"id": "7",
+				"name": "Kampung Rambutan - Kampung Melayu",
+				"route": [
+					{
+						"id": "07",
+						"name": "Kp. Rambutan - Kp. Melayu"
+					},
+					{
+						"id": "7A",
+						"name": "Kp. Rambutan - Lebak Bulus"
+					},
+					{
+						"id": "7B",
+						"name": "Kp. Rambutan - Blok M"
+					},
+					{
+						"id": "7C",
+						"name": "Cibubur - BKN"
+					},
+					{
+						"id": "7D",
+						"name": "TMII - Cawang UKI"
+					},
+					{
+						"id": "7E",
+						"name": "Kp. Rambutan - Ragunan"
+					},
+					{
+						"id": "7F",
+						"name": "Kp. Rambutan - Harmoni via Cempaka Putih"
+					},
+					{
+						"id": "7M",
+						"name": "Kp. Rambutan - Pulogadung"
+					},
+					{
+						"id": "7N",
+						"name": "Gandaria - Kp. Rambutan"
+					},
+					{
+						"id": "7P",
+						"name": "Pondok Kelapa - BKN"
+					}
+				]
+			},
+			{
+				"id": "8",
+				"name": "Lebak Bulus - Harmoni",
+				"route": [
+					{
+						"id": "08",
+						"name": "Lebak Bulus - Harmoni Central"
+					},
+					{
+						"id": "8A",
+						"name": "Grogol 2 - Juanda"
+					},
+					{
+						"id": "8C",
+						"name": "Iskandar Muda - St. Tanah Abang"
+					},
+					{
+						"id": "8D",
+						"name": "Joglo - Blok M"
+					},
+					{
+						"id": "8E",
+						"name": "Bintaro - Blok M"
+					},
+					{
+						"id": "8F",
+						"name": "St. BNI City - Pasar Kebayoran Lama"
+					},
+					{
+						"id": "8K",
+						"name": "Batusari - Tanah Abang"
+					}
+				]
+			},
+			{
+				"id": "9",
+				"name": "Pinang Ranti - Pluit",
+				"route": [
+					{
+						"id": "09",
+						"name": "Pinang Ranti - Pluit"
+					},
+					{
+						"id": "9A",
+						"name": "PGC 2 - Pluit"
+					},
+					{
+						"id": "9B",
+						"name": "Pinang Ranti - Kota"
+					},
+					{
+						"id": "9C",
+						"name": "Pinang Ranti - Bundaran Senayan"
+					},
+					{
+						"id": "9D",
+						"name": "Pasar Minggu - Tanah Abang"
+					},
+					{
+						"id": "9E",
+						"name": "Kebayoran Lama - Grogol 2"
+					},
+					{
+						"id": "9H",
+						"name": "Cipedak - Blok M"
+					},
+					{
+						"id": "9K",
+						"name": "Kp. Rambutan - Grogol 2"
+					},
+					{
+						"id": "9M",
+						"name": "Pinang Ranti - Kuningan"
+					}
+				]
+			},
+			{
+				"id": "10",
+				"name": "Tanjung Priok - PGC 2 (Cililitan)",
+				"route": [
+					{
+						"id": "10",
+						"name": "PGC 2 - Tj. Priok"
+					},
+					{
+						"id": "10A",
+						"name": "Rusun Marunda - Tj. Priok"
+					},
+					{
+						"id": "10B",
+						"name": "Rusun Cipinang Besar Selatan - PGC 1"
+					},
+					{
+						"id": "10C",
+						"name": "Tj. Priok - Pelabuhan Tj. Priok"
+					},
+					{
+						"id": "10D",
+						"name": "Tj. Priok - Kp. Rambutan"
+					},
+					{
+						"id": "10F",
+						"name": "Sunter Kelapa Gading - St. LRT Pegangsaan Dua"
+					},
+					{
+						"id": "10H",
+						"name": "Tj. Priok - Blok M"
+					},
+					{
+						"id": "10K",
+						"name": "Tj. Priok - Senen via Taman BMW"
+					}
+				]
+			},
+			{
+				"id": "11",
+				"name": "Kampung Melayu - Pulo Gebang",
+				"route": [
+					{
+						"id": "11",
+						"name": "Walikota Jakarta Timur - Kp. Melayu"
+					},
+					{
+						"id": "11A",
+						"name": "Pulogadung - Pulogebang"
+					},
+					{
+						"id": "11B",
+						"name": "Rusun Rawa Bebek - Pulogebang"
+					},
+					{
+						"id": "11C",
+						"name": "Rusun Pulogebang - Rusun Pinus Elok"
+					},
+					{
+						"id": "11Q",
+						"name": "Pulogebang - Kp. Melayu via BKT"
+					},
+					{
+						"id": "11R",
+						"name": "Rusun Cakung KM 2 - Bukit Duri"
+					},
+					{
+						"id": "11T",
+						"name": "Pulogebang - St. Cakung"
+					},
+					{
+						"id": "11U",
+						"name": "Pulogebang - St. Cakung via Cakung Cilincing"
+					},
+					{
+						"id": "11V",
+						"name": "Pulogebang - Pasar Baru"
+					}
+				]
+			},
+			{
+				"id": "12",
+				"name": "Pluit - Tanjung Priok",
+				"route": [
+					{
+						"id": "12",
+						"name": "Penjaringan - Tj. Priok"
+					},
+					{
+						"id": "12A",
+						"name": "Dermaga Kaliadem - Kota"
+					},
+					{
+						"id": "12B",
+						"name": "Pluit - Senen"
+					},
+					{
+						"id": "12E",
+						"name": "History of Jakarta Explorer"
+					},
+					{
+						"id": "12K",
+						"name": "Asemka Explorer"
+					},
+					{
+						"id": "12M",
+						"name": "Sunter Boulevard Barat - Harmoni"
+					}
+				]
+			},
+			{
+				"id": "13",
+				"name": "Ciledug - Kapten Tendean",
+				"route": [
+					{
+						"id": "13A",
+						"name": "Blok M - Ciledug Puri Beta"
+					},
+					{
+						"id": "13B",
+						"name": "Pancoran Barat - Ciledug Puri Beta"
+					},
+					{
+						"id": "13C",
+						"name": "Ciledug Puri Beta - Dukuh Atas"
+					},
+					{
+						"id": "13D",
+						"name": "Ragunan - Ciledug Puri Beta"
+					},
+					{
+						"id": "13E",
+						"name": "Ciledug Puri Beta - Kuningan"
+					},
+					{
+						"id": "13F",
+						"name": "Puri Beta - Kp. Melayu"
+					}
+				]
+			},
+			{
+				"id": "RT",
+				"name": "Royal Trans",
+				"route": [
+					{
+						"id": "1K",
+						"name": "Cibubur - Blok M"
+					},
+					{
+						"id": "1T",
+						"name": "Cibubur - Kota"
+					},
+					{
+						"id": "1U",
+						"name": "TMII - Balai Kota"
+					},
+					{
+						"id": "6P",
+						"name": "Cibubur - Kuningan"
+					},
+					{
+						"id": "B13",
+						"name": "Summarecon Bekasi - Blok M"
+					},
+					{
+						"id": "B14",
+						"name": "Summarecon Bekasi - Kuningan"
+					},
+					{
+						"id": "B15",
+						"name": "Jatibening - Blok M"
+					},
+					{
+						"id": "B16",
+						"name": "Jatibening - Kuningan"
+					},
+					{
+						"id": "B23",
+						"name": "Bekasi Timur - Tebet"
+					},
+					{
+						"id": "B24",
+						"name": "Bekasi Timur - Kalideres"
+					},
+					{
+						"id": "D31",
+						"name": "Cinere - Kuningan"
+					},
+					{
+						"id": "S12",
+						"name": "Serpong BSD - St. MRT Fatmawati"
+					},
+					{
+						"id": "S31",
+						"name": "Bintaro - St. MRT Fatmawati"
+					}
+				]
+			},
+			{
+				"id": "BW",
+				"name": "Bus Wisata",
+				"route": [
+					{
+						"id": "BW1",
+						"name": "Sejarah Jakarta"
+					},
+					{
+						"id": "BW2",
+						"name": "Jakarta Baru"
+					},
+					{
+						"id": "BW3",
+						"name": "Kesenian & Kuliner"
+					},
+					{
+						"id": "BW4",
+						"name": "Pencakar Langit"
+					},
+					{
+						"id": "BW5",
+						"name": "Ruang Terbuka"
+					},
+					{
+						"id": "BW6",
+						"name": "Cagar Budaya Jakarta"
+					},
+					{
+						"id": "BW7",
+						"name": "Belanja Jakarta"
+					}
+				]
+			},
+			{
+				"id": "GR",
+				"name": "Bus Gratis Transjakarta",
+				"route": [
+					{
+						"id": "GR1",
+						"name": "Bundaran Senayan - Harmoni"
+					},
+					{
+						"id": "GR2",
+						"name": "Tanah Abang Explorer"
+					},
+					{
+						"id": "GR3",
+						"name": "Ragunan - Departemen Pertanian"
+					}
+				]
+			},
+			{
+				"id": "JAK",
+				"name": "Mikrotrans Jak Lingko",
+				"route": [
+					{
+						"id": "JAK1",
+						"name": "Tj. Priok - Plumpang"
+					},
+					{
+						"id": "JAK2",
+						"name": "Duren Sawit - Kp. Melayu"
+					},
+					{
+						"id": "JAK3",
+						"name": "Lebak Bulus - Pondok Labu"
+					},
+					{
+						"id": "JAK4",
+						"name": "Grogol - Jembatan 2"
+					},
+					{
+						"id": "JAK5",
+						"name": "Semper - Rorotan"
+					},
+					{
+						"id": "JAK6",
+						"name": "Kp. Rambutan - Pondok Gede"
+					},
+					{
+						"id": "JAK7",
+						"name": "Tanah Abang - Tawakal"
+					},
+					{
+						"id": "JAK8",
+						"name": "Roxy - Benhil via Tanah Abang"
+					},
+					{
+						"id": "JAK9",
+						"name": "Roxy Mas - Karet"
+					},
+					{
+						"id": "JAK10",
+						"name": "Tanah Abang - Kota"
+					},
+					{
+						"id": "JAK11",
+						"name": "Tanah Abang - Kebayoran Lama"
+					},
+					{
+						"id": "JAK12",
+						"name": "Tanah Abang - Kebayoran Lama via Pos Pengumben"
+					},
+					{
+						"id": "JAK13",
+						"name": "Tanah Abang - Kota Intan via Jembatan Lima"
+					},
+					{
+						"id": "JAK14",
+						"name": "Tanah Abang - Meruya"
+					},
+					{
+						"id": "JAK15",
+						"name": "Tj. Priok - Bulak Turi"
+					},
+					{
+						"id": "JAK16",
+						"name": "PGC - Condet"
+					},
+					{
+						"id": "JAK17",
+						"name": "Pulogadung - Senen"
+					},
+					{
+						"id": "JAK18",
+						"name": "St. Kalibata - Kuningan"
+					},
+					{
+						"id": "JAK19",
+						"name": "Pinang Ranti - Setu"
+					},
+					{
+						"id": "JAK20",
+						"name": "Lubang Buaya - Cawang UKI"
+					},
+					{
+						"id": "JAK21",
+						"name": "PGC - Dwikora"
+					},
+					{
+						"id": "JAK22",
+						"name": "Penas Kalimalang - Dwikora"
+					},
+					{
+						"id": "JAK24",
+						"name": "Senen - Pulogadung via Kelapa Gading"
+					},
+					{
+						"id": "JAK25",
+						"name": "Kalisari - Pasar Rebo"
+					},
+					{
+						"id": "JAK26",
+						"name": "Rawamangun - Duren Sawit"
+					},
+					{
+						"id": "JAK27",
+						"name": "Pulogebang - Rorotan"
+					},
+					{
+						"id": "JAK28",
+						"name": "Taman Wiladatika - Pasar Rebo"
+					},
+					{
+						"id": "JAK29",
+						"name": "Tj. Priok - Semper"
+					},
+					{
+						"id": "JAK30",
+						"name": "Citraland - Meruya"
+					},
+					{
+						"id": "JAK31",
+						"name": "Pondok Labu - Blok M"
+					},
+					{
+						"id": "JAK32",
+						"name": "Petukangan - Lebak Bulus"
+					},
+					{
+						"id": "JAK33",
+						"name": "Pulogadung - Kota"
+					},
+					{
+						"id": "JAK34",
+						"name": "Rawamangun - Klender"
+					},
+					{
+						"id": "JAK35",
+						"name": "Rawamangun - Pangkalan Jati"
+					},
+					{
+						"id": "JAK36",
+						"name": "Cilangkap - Cililitan"
+					},
+					{
+						"id": "JAK37",
+						"name": "Cililitan - Condet via Kayu Manis"
+					},
+					{
+						"id": "JAK38",
+						"name": "Bulak Ringin - Kp. Rambutan"
+					},
+					{
+						"id": "JAK39",
+						"name": "Duren Sawit - Kalimalang"
+					},
+					{
+						"id": "JAK40",
+						"name": "Pulogebang - Taman Harapan Baru"
+					},
+					{
+						"id": "JAK41",
+						"name": "Kp. Melayu - Pulogadung"
+					},
+					{
+						"id": "JAK42",
+						"name": "Kp. Melayu - Pondok Kelapa"
+					},
+					{
+						"id": "JAK43",
+						"name": "Tongtek - Cililitan"
+					},
+					{
+						"id": "JAK44",
+						"name": "Andara - Lenteng Agung"
+					},
+					{
+						"id": "JAK45",
+						"name": "Lebak Bulus - Ragunan"
+					},
+					{
+						"id": "JAK47",
+						"name": "Ciganjur - Terminal Pasar Minggu"
+					},
+					{
+						"id": "JAK49",
+						"name": "Lebak Bulus - Cipulir"
+					},
+					{
+						"id": "JAK50",
+						"name": "Kalideres - Puri Kembangan"
+					},
+					{
+						"id": "JAK51",
+						"name": "Taman Kota - Budi Luhur"
+					},
+					{
+						"id": "JAK52",
+						"name": "Kalideres - Muara Angke"
+					},
+					{
+						"id": "JAK54",
+						"name": "Grogol - Benhil"
+					},
+					{
+						"id": "JAK56",
+						"name": "Grogol - Srengseng"
+					},
+					{
+						"id": "JAK58",
+						"name": "Cilincing - Rorotan"
+					},
+					{
+						"id": "JAK59",
+						"name": "Rawamangun - Rawa Sengon"
+					},
+					{
+						"id": "JAK60",
+						"name": "Kelapa Gading - Rusun Kemayoran"
+					},
+					{
+						"id": "JAK61",
+						"name": "Pulogadung - Cempaka Putih"
+					},
+					{
+						"id": "JAK64",
+						"name": "Lenteng Agung - Aseli"
+					},
+					{
+						"id": "JAK71",
+						"name": "Kp. Rambutan - Pinang Ranti"
+					},
+					{
+						"id": "JAK72",
+						"name": "Kp. Rambutan - Pasar Rebo"
+					},
+					{
+						"id": "JAK73",
+						"name": "Jambore Cibubur - Pasar Rebo"
+					},
+					{
+						"id": "JAK74",
+						"name": "Rawamangun - Cipinang Muara"
+					},
+					{
+						"id": "JAK75",
+						"name": "Kp. Pulo - Halim via Cililitan"
+					},
+					{
+						"id": "JAK77",
+						"name": "Tj. Priok - Jembatan Hitam"
+					},
+					{
+						"id": "JAK80",
+						"name": "Rawa Buaya - Rawa Kompeni"
+					},
+					{
+						"id": "JAK84",
+						"name": "Kp. Melayu - Kapin Raya"
+					},
+					{
+						"id": "JAK85",
+						"name": "Bintara - Cipinang Indah"
+					},
+					{
+						"id": "JAK112",
+						"name": "Pulogadung - Tanah Merah"
+					},
+					{
+						"id": "JAK117",
+						"name": "Tj. Priok - Tanah Merdeka"
+					}
+				]
+			},
+			{
+				"id": "XX",
+				"name": "Uncategorized",
+				"route": [
+					{
+						"id": "B11",
+						"name": "Summarecon Bekasi - Tosari"
+					},
+					{
+						"id": "B12",
+						"name": "Summarecon Bekasi - Tj. Priok"
+					},
+					{
+						"id": "B21",
+						"name": "Bekasi Timur - Grogol 2"
+					},
+					{
+						"id": "B22",
+						"name": "Bekasi Timur - Juanda"
+					},
+					{
+						"id": "D11",
+						"name": "Depok - BKN"
+					},
+					{
+						"id": "D21",
+						"name": "UI - Lebak Bulus"
+					},
+					{
+						"id": "D31",
+						"name": "Cinere - Kuningan"
+					},
+					{
+						"id": "DA1",
+						"name": "Dukuh Atas - Sam Ratulangi"
+					},
+					{
+						"id": "DA2",
+						"name": "Dukuh Atas - Tanah Abang"
+					},
+					{
+						"id": "DA3",
+						"name": "Dukuh Atas - Kuningan"
+					},
+					{
+						"id": "DA4",
+						"name": "Dukuh Atas - Kota"
+					},
+					{
+						"id": "L4",
+						"name": "PGC 2 - Dukuh Atas 2"
+					},
+					{
+						"id": "L6",
+						"name": "Bank Indonesia - Ragunan"
+					},
+					{
+						"id": "L7",
+						"name": "Kp. Rambutan - Kp. Melayu"
+					},
+					{
+						"id": "L10A",
+						"name": "PGC 2 - Tj. Priok"
+					},
+					{
+						"id": "L10B",
+						"name": "Tj. Priok - PGC 2"
+					},
+					{
+						"id": "MR1",
+						"name": "Blok M - Pakubuwono"
+					},
+					{
+						"id": "MR2",
+						"name": "Blok M - Kramat Pela"
+					},
+					{
+						"id": "MR3",
+						"name": "Blok M - Wijaya"
+					},
+					{
+						"id": "MR5",
+						"name": "St. MRT Blok A - Radio Dalam"
+					},
+					{
+						"id": "MR8",
+						"name": "St. MRT Blok A - Pangeran Antasari"
+					},
+					{
+						"id": "MR9",
+						"name": "South Quarter - St. MRT Fatmawati"
+					},
+					{
+						"id": "S11",
+						"name": "Serpong - Jelambar"
+					},
+					{
+						"id": "S21",
+						"name": "Ciputat - Tosari"
+					},
+					{
+						"id": "S22",
+						"name": "Ciputat - Kp. Rambutan"
+					},
+					{
+						"id": "S23",
+						"name": "Rempoa - Blok M"
+					},
+					{
+						"id": "S41",
+						"name": "Pondok Cabe - Tanah Abang"
+					},
+					{
+						"id": "T11",
+						"name": "Poris Plawad - Bundaran Senayan"
+					},
+					{
+						"id": "T12",
+						"name": "Poris Plawad - Pasar Baru"
+					},
+					{
+						"id": "10E",
+						"name": "Pulogebang - Tj. Priok"
+					},
+					{
+						"id": "11E",
+						"name": "Pulogebang - Lebak Bulus"
+					},
+					{
+						"id": "11F",
+						"name": "Pulogebang - Pasar Minggu"
+					},
+					{
+						"id": "11H",
+						"name": "Pulogebang - Pinang Ranti"
+					},
+					{
+						"id": "2C",
+						"name": "Monas - JIEXPO Kemayoran"
+					},
+					{
+						"id": "T1",
+						"name": "GTI - Kecamatan via Kota",
+						"dhalte": [
+							"T-GTI",
+							"T-Aruman",
+							"T-SPBUCmd",
+							"T-Cimindi",
+							"T-Kasih",
+							"T-SPBUBrs",
+							"T-Dustira",
+							"T-Antri",
+							"T-Pojok",
+							"T-Alun",
+							"T-Cihanjuang",
+							"T-SPBUChj",
+							"T-Kecamatan"
+						],
+						"ahalte": [
+							"T-Kecamatan",
+							"T-GTI"
+						]
+					}
+				]
+			}
+		]
+	},
+	{
+		"halte": [
+			{
+				"id": "1-1",
+				"name": "Blok M",
+				"lat": -6.24333,
+				"lon": 106.802159
+			},
+			{
+				"id": "1-2",
+				"name": "Masjid Agung",
+				"lat": -6.236603,
+				"lon": 106.798407
+			},
+			{
+				"id": "1-3",
+				"name": "Bundaran Senayan",
+				"lat": -6.228172,
+				"lon": 106.800869
+			},
+			{
+				"id": "1-4",
+				"name": "Gelora Bung Karno",
+				"lat": -6.224743,
+				"lon": 106.805761
+			},
+			{
+				"id": "1-5",
+				"name": "Polda Metro Jaya",
+				"lat": -6.221047,
+				"lon": 106.809827
+			},
+			{
+				"id": "1-6",
+				"name": "Bendungan Hilir",
+				"lat": -6.218258,
+				"lon": 106.813438
+			},
+			{
+				"id": "1-7",
+				"name": "Karet Sudirman",
+				"lat": -6.213837,
+				"lon": 106.818201
+			},
+			{
+				"id": "1-9",
+				"name": "Dukuh Atas",
+				"lat": -6.206296,
+				"lon": 106.820621
+			},
+			{
+				"id": "1-10",
+				"name": "Tosari",
+				"lat": -6.198408,
+				"lon": 106.822036
+			},
+			{
+				"id": "1-11",
+				"name": "Bundaran HI",
+				"lat": -6.194066,
+				"lon": 106.822229
+			},
+			{
+				"id": "1-12",
+				"name": "Sarinah",
+				"lat": -6.188744,
+				"lon": 106.822235
+			},
+			{
+				"id": "1-13",
+				"name": "Bank Indonesia",
+				"lat": -6.182778,
+				"lon": 106.82186
+			},
+			{
+				"id": "1-14",
+				"name": "Monas",
+				"lat": -6.177685,
+				"lon": 106.822209
+			},
+			{
+				"id": "1-15",
+				"name": "Harmoni",
+				"lat": -6.167066,
+				"lon": 106.820395
+			},
+			{
+				"id": "1-16",
+				"name": "Sawah Besar",
+				"lat": -6.16063,
+				"lon": 106.819214
+			},
+			{
+				"id": "1-17",
+				"name": "Mangga Besar",
+				"lat": -6.151914,
+				"lon": 106.817286
+			},
+			{
+				"id": "1-18",
+				"name": "Olimo",
+				"lat": -6.150573,
+				"lon": 106.816562
+			},
+			{
+				"id": "1-19",
+				"name": "Glodok",
+				"lat": -6.146044,
+				"lon": 106.815312
+			},
+			{
+				"id": "1-20",
+				"name": "Kota",
+				"lat": -6.137596,
+				"lon": 106.813177
+			},
+			{
+				"id": "4-1",
+				"name": "Polugadung 2",
+				"lat": -6.183291,
+				"lon": 106.909009
+			},
+			{
+				"id": "4-2",
+				"name": "Pasar Polugadung",
+				"lat": -6.187418,
+				"lon": 106.905934
+			},
+			{
+				"id": "4-3",
+				"name": "TU Gas",
+				"lat": -6.192333,
+				"lon": 106.904992
+			},
+			{
+				"id": "4-4",
+				"name": "Layur",
+				"lat": -6.19349,
+				"lon": 106.89902
+			},
+			{
+				"id": "4-5",
+				"name": "Pemuda Rawamangun",
+				"lat": -6.19346,
+				"lon": 106.89167
+			},
+			{
+				"id": "4-6",
+				"name": "Velodrome",
+				"lat": -6.19341,
+				"lon": 106.88818
+			},
+			{
+				"id": "4-7",
+				"name": "Sunan Giri",
+				"lat": -6.19323,
+				"lon": 106.88367
+			},
+			{
+				"id": "4-8",
+				"name": "UNJ",
+				"lat": -6.19286,
+				"lon": 106.8802
+			},
+			{
+				"id": "4-9",
+				"name": "Pramuka BPKP",
+				"lat": -6.192144,
+				"lon": 106.874021
+			},
+			{
+				"id": "4-10",
+				"name": "Pramuka LIA",
+				"lat": -6.192174,
+				"lon": 106.868574
+			},
+			{
+				"id": "4-11",
+				"name": "Utan Kayu",
+				"lat": -6.192719,
+				"lon": 106.864599
+			},
+			{
+				"id": "4-12",
+				"name": "Pasar Genjing",
+				"lat": -6.194442,
+				"lon": 106.860895
+			},
+			{
+				"id": "4-13",
+				"name": "Matraman 2",
+				"lat": -6.1999,
+				"lon": 106.8543
+			},
+			{
+				"id": "4-14",
+				"name": "Manggarai",
+				"lat": -6.20893,
+				"lon": 106.84749
+			},
+			{
+				"id": "4-15",
+				"name": "Pasar Rumput",
+				"lat": -6.207517,
+				"lon": 106.840793
+			},
+			{
+				"id": "4-16",
+				"name": "Halimun",
+				"lat": -6.20511,
+				"lon": 106.8334
+			},
+			{
+				"id": "4-17",
+				"name": "Dukuh Atas 2",
+				"lat": -6.213042,
+				"lon": 106.823473
+			},
+			{
+				"id": "B1-StPasar",
+				"name": "St. Pasar Minggu",
+				"lat": -6.284281,
+				"lon": 106.8442
+			},
+			{
+				"id": "B2-AtTaqwa",
+				"name": "Masjid At Taqwa",
+				"lat": -6.277425,
+				"lon": 106.8457
+			},
+			{
+				"id": "B3-StLenteng",
+				"name": "St. Lenteng Agung",
+				"lat": -6.330804,
+				"lon": 106.8354
+			},
+			{
+				"id": "B60-Pancoran2",
+				"name": "Pancoran 2",
+				"lat": -6.24198,
+				"lon": 106.8444
+			},
+			{
+				"id": "B61-Fountain",
+				"name": "Fountain Park",
+				"lat": -6.244717,
+				"lon": 106.8432
+			},
+			{
+				"id": "B62-Brimob",
+				"name": "Brimob",
+				"lat": -6.270857,
+				"lon": 106.8466
+			},
+			{
+				"id": "B64-StLenteng",
+				"name": "St. Lenteng Agung",
+				"lat": -6.331415,
+				"lon": 106.8347
+			},
+			{
+				"id": "B65-Joe",
+				"name": "Jl. Joe",
+				"lat": -6.318091,
+				"lon": 106.8358
+			},
+			{
+				"id": "B66-Arrohmah",
+				"name": "Masjid Arrohmah",
+				"lat": -6.31465,
+				"lon": 106.8366
+			},
+			{
+				"id": "B71-Sucofindo",
+				"name": "Graha Sucofindo",
+				"lat": -6.25181,
+				"lon": 106.8426
+			},
+			{
+				"id": "B72-Minangkabau",
+				"name": "Minangkabau",
+				"lat": -6.21406,
+				"lon": 106.8435
+			},
+			{
+				"id": "NI-FlyoverTanjung",
+				"name": "Flyover Tanjung Barat",
+				"lat": null,
+				"lon": null
+			},
+			{
+				"id": "NI-Jagakarsa",
+				"name": "Jl. Jagakarsa",
+				"lat": null,
+				"lon": null
+			},
+			{
+				"id": "NI-RawaBambu",
+				"name": "Rawa Bambu",
+				"lat": -6.29496,
+				"lon": 106.8407
+			},
+			{
+				"id": "NI-StManggarai",
+				"name": "St. Manggarai",
+				"lat": -6.21055,
+				"lon": 106.851
+			},
+			{
+				"id": "R10-LP31",
+				"name": "Politeknik LP3I",
+				"lat": -6.286643,
+				"lon": 106.8437
+			},
+			{
+				"id": "R11-Siaga",
+				"name": "Jl. Siaga Bakti Pertamina",
+				"lat": -6.273463,
+				"lon": 106.8464
+			},
+			{
+				"id": "R12-Brimob",
+				"name": "Brimob",
+				"lat": -6.270996,
+				"lon": 106.8465
+			},
+			{
+				"id": "R13-PMD",
+				"name": "PMD",
+				"lat": -6.269215,
+				"lon": 106.8461
+			},
+			{
+				"id": "R14-Samali",
+				"name": "Haji Samali",
+				"lat": -6.265857,
+				"lon": 106.8441
+			},
+			{
+				"id": "R15-Empang",
+				"name": "Empang 3",
+				"lat": -6.2634,
+				"lon": 106.8432
+			},
+			{
+				"id": "R16-POMAD",
+				"name": "POM AD",
+				"lat": -6.261783,
+				"lon": 106.8431
+			},
+			{
+				"id": "R17-Guru",
+				"name": "Masjid Guru Amin",
+				"lat": -6.258106,
+				"lon": 106.8434
+			},
+			{
+				"id": "R19-MBAU",
+				"name": "MBAU",
+				"lat": -6.245812,
+				"lon": 106.8428
+			},
+			{
+				"id": "R1-UI",
+				"name": "Universitas Indonesia",
+				"lat": -6.353633,
+				"lon": 106.8318
+			},
+			{
+				"id": "R20-Pancoran",
+				"name": "Pancoran",
+				"lat": -6.241887,
+				"lon": 106.8442
+			},
+			{
+				"id": "R21-Tebet",
+				"name": "Tebet Barat Dalam",
+				"lat": -6.239215,
+				"lon": 106.8454
+			},
+			{
+				"id": "R22-Sahid",
+				"name": "Universitas Sahid",
+				"lat": -6.235567,
+				"lon": 106.8442
+			},
+			{
+				"id": "R23-Merpati",
+				"name": "Merpati",
+				"lat": -6.232391,
+				"lon": 106.8448
+			},
+			{
+				"id": "R24-Kecamatan",
+				"name": "Kecamatan Tebet",
+				"lat": -6.231438,
+				"lon": 106.8457
+			},
+			{
+				"id": "R25-Balai",
+				"name": "Balai Sudirman",
+				"lat": -6.227021,
+				"lon": 106.8474
+			},
+			{
+				"id": "R26-Pal",
+				"name": "Pal Batu",
+				"lat": -6.224699,
+				"lon": 106.8474
+			},
+			{
+				"id": "R27-Jembatan",
+				"name": "Jembatan Merah",
+				"lat": -6.221067,
+				"lon": 106.8462
+			},
+			{
+				"id": "R28-SDN",
+				"name": "SDN 01 02 03",
+				"lat": -6.219719,
+				"lon": 106.8456
+			},
+			{
+				"id": "R29-Budhi",
+				"name": "RS. Budhi Jaya",
+				"lat": -6.218748,
+				"lon": 106.8452
+			},
+			{
+				"id": "R2-UP",
+				"name": "Universitas Pancasila",
+				"lat": -6.342128,
+				"lon": 106.8334
+			},
+			{
+				"id": "R30-Baiturrahman",
+				"name": "Masjid Baiturrahman",
+				"lat": -6.216643,
+				"lon": 106.8442
+			},
+			{
+				"id": "R32-Saharjo",
+				"name": "Jl. Saharjo UGM",
+				"lat": -6.214606,
+				"lon": 106.8442
+			},
+			{
+				"id": "R33-Albarkah",
+				"name": "Albarkah",
+				"lat": -6.216643,
+				"lon": 106.8442
+			},
+			{
+				"id": "R34-Keselamatan",
+				"name": "Keselamatan",
+				"lat": -6.219801,
+				"lon": 106.8457
+			},
+			{
+				"id": "R35-Supomo",
+				"name": "Soepomo",
+				"lat": -6.224957,
+				"lon": 106.8475
+			},
+			{
+				"id": "R36-Tebet",
+				"name": "Tebet Balai Sudirman",
+				"lat": -6.227024,
+				"lon": 106.8476
+			},
+			{
+				"id": "R37-Trans",
+				"name": "Trans Vision",
+				"lat": -6.229549,
+				"lon": 106.8473
+			},
+			{
+				"id": "R38-Kecamatan",
+				"name": "Kecamatan Tebet",
+				"lat": -6.232045,
+				"lon": 106.8453
+			},
+			{
+				"id": "R39-Pasar",
+				"name": "Pasar Pedok",
+				"lat": -6.234168,
+				"lon": 106.8443
+			},
+			{
+				"id": "R3-StUP",
+				"name": "St. Universitas Pancasila",
+				"lat": -6.33923,
+				"lon": 106.834
+			},
+			{
+				"id": "R40-Sahid",
+				"name": "Universitas Sahid",
+				"lat": -6.235945,
+				"lon": 106.8443
+			},
+			{
+				"id": "R41-Rosita",
+				"name": "Taman Rosita",
+				"lat": -6.237551,
+				"lon": 106.8446
+			},
+			{
+				"id": "R42-Pemadam",
+				"name": "Pemadam Pos Tebet",
+				"lat": -6.239861,
+				"lon": 106.8455
+			},
+			{
+				"id": "R43-Pancoran",
+				"name": "Pancoran 1",
+				"lat": -6.246562,
+				"lon": 106.8429
+			},
+			{
+				"id": "R44-Perdatam",
+				"name": "Perdatam",
+				"lat": -6.249442,
+				"lon": 106.8428
+			},
+			{
+				"id": "R45-Pertani",
+				"name": "Pertani",
+				"lat": -6.25652,
+				"lon": 106.8433
+			},
+			{
+				"id": "R46-SMK",
+				"name": "SMK Karya Teladan",
+				"lat": -6.258637,
+				"lon": 106.8435
+			},
+			{
+				"id": "R47-POMAD",
+				"name": "POM AD",
+				"lat": -6.262002,
+				"lon": 106.8433
+			},
+			{
+				"id": "R48-Nifarro",
+				"name": "Nifarro Park",
+				"lat": -6.263062,
+				"lon": 106.8433
+			},
+			{
+				"id": "R49-Warga",
+				"name": "Warga",
+				"lat": -6.273243,
+				"lon": 106.8466
+			},
+			{
+				"id": "R4-SMA38",
+				"name": "SMA 38 2",
+				"lat": -6.335908,
+				"lon": 106.8348
+			},
+			{
+				"id": "R50-AtTaqwa",
+				"name": "Masjid At Taqwa",
+				"lat": -6.277042,
+				"lon": 106.8459
+			},
+			{
+				"id": "R51-StPasar",
+				"name": "St. Pasar Minggu",
+				"lat": -6.283473,
+				"lon": 106.8446
+			},
+			{
+				"id": "R52-Poltangan",
+				"name": "Poltangan",
+				"lat": -6.295837,
+				"lon": 106.8409
+			},
+			{
+				"id": "R53-Tanjung",
+				"name": "Tanjung Barat",
+				"lat": -6.303014,
+				"lon": 106.84
+			},
+			{
+				"id": "R54-StTanjung",
+				"name": "St. Tanjung Barat",
+				"lat": -6.30743,
+				"lon": 106.8393
+			},
+			{
+				"id": "R55-Perum",
+				"name": "Tanjung Mas Raya",
+				"lat": -6.308529,
+				"lon": 106.8391
+			},
+			{
+				"id": "R57-Poltek",
+				"name": "Poltek Bunda Kandung",
+				"lat": -6.312176,
+				"lon": 106.8385
+			},
+			{
+				"id": "R58-SPBU",
+				"name": "SPBU Jl. Guru",
+				"lat": -6.318207,
+				"lon": 106.8374
+			},
+			{
+				"id": "R59-Lenteng",
+				"name": "Lenteng Agung",
+				"lat": -6.32195,
+				"lon": 106.8364
+			},
+			{
+				"id": "R60-Taman",
+				"name": "Taman Lenteng Agung",
+				"lat": -6.322954,
+				"lon": 106.8357
+			},
+			{
+				"id": "R61-Wijaya",
+				"name": "Wijaya Kusuma",
+				"lat": -6.332953,
+				"lon": 106.8357
+			},
+			{
+				"id": "R62-SMA38",
+				"name": "SMA 38",
+				"lat": -6.336214,
+				"lon": 106.8358
+			},
+			{
+				"id": "R63-SMA109",
+				"name": "SMA 109",
+				"lat": -6.344736,
+				"lon": 106.8335
+			},
+			{
+				"id": "R64-Syibi",
+				"name": "Syibi",
+				"lat": -6.350334,
+				"lon": 106.8328
+			},
+			{
+				"id": "R6-IISIP",
+				"name": "Kampus IISIP",
+				"lat": -6.323107,
+				"lon": 106.835
+			},
+			{
+				"id": "R77-Tria",
+				"name": "RS. Tria Dipa",
+				"lat": -6.250141,
+				"lon": 106.8426
+			},
+			{
+				"id": "R7-Lenteng",
+				"name": "Lenteng Agung Barat",
+				"lat": -6.308891,
+				"lon": 106.8381
+			},
+			{
+				"id": "R8-StTanjung",
+				"name": "St. Tanjung Barat",
+				"lat": -6.307595,
+				"lon": 106.8387
+			},
+			{
+				"id": "R9-Komplek",
+				"name": "Komplek AL",
+				"lat": -6.297724,
+				"lon": 106.8402
+			},
+			{
+				"id": "T-GTI",
+				"name": "GTI",
+				"lat": -6.87603,
+				"lon": 107.55999
+			},
+			{
+				"id": "T-Aruman",
+				"name": "Pertigaan Aruman",
+				"lat": -6.8823,
+				"lon": 107.55782
+			},
+			{
+				"id": "T-SPBUCmd",
+				"name": "SPBU Cimindi",
+				"lat": -6.88812,
+				"lon": 107.55562
+			},
+			{
+				"id": "T-Cimindi",
+				"name": "Pasar Cimindi",
+				"lat": -6.897985,
+				"lon": 107.555862
+			},
+			{
+				"id": "T-Kasih",
+				"name": "RS. Kasih Bunda",
+				"lat": -6.90052,
+				"lon": 107.5472
+			},
+			{
+				"id": "T-SPBUBrs",
+				"name": "SPBU Baros",
+				"lat": -6.8925,
+				"lon": 107.53897
+			},
+			{
+				"id": "T-Dustira",
+				"name": "RS. Dustira",
+				"lat": -6.88604,
+				"lon": 107.53561
+			},
+			{
+				"id": "T-Antri",
+				"name": "Pasar Antri",
+				"lat": -6.88011,
+				"lon": 107.53963
+			},
+			{
+				"id": "T-Pojok",
+				"name": "Pojok Cimahi",
+				"lat": -6.87382,
+				"lon": 107.53771
+			},
+			{
+				"id": "T-Alun",
+				"name": "Alun Alun Cimahi",
+				"lat": -6.87351,
+				"lon": 107.54209
+			},
+			{
+				"id": "T-Cihanjuang",
+				"name": "Jl. Cihanjuang",
+				"lat": -6.87799,
+				"lon": 107.54948
+			},
+			{
+				"id": "T-SPBUChj",
+				"name": "SPBU Cihanjuang",
+				"lat": -6.87267,
+				"lon": 107.55286
+			},
+			{
+				"id": "T-Kecamatan",
+				"name": "Kecamatan",
+				"lat": -6.87405,
+				"lon": 107.55659
+			}
+		]
+	}
+]
